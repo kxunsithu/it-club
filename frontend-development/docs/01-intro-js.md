@@ -112,8 +112,8 @@ Learn these topics in order. Understand the fundamentals before moving on to API
 1. **Variables and data types:** Store information with `let` and `const`. Learn strings, numbers, booleans, `null`, and `undefined`. [Read the lesson](02-variables-and-data-types.md).
 2. **Operators:** Use arithmetic, comparison, logical, and assignment operators. [Read the lesson](03-operators.md).
 3. **Conditions:** Make decisions with `if`, `else if`, `else`, and `switch`.
-4. **Loops:** Repeat operations with `for`, `while`, and `for...of`.
-5. **Functions:** Create reusable code with function declarations and arrow functions.
+4. **Loops:** Repeat operations with `for`, `while`, and `for...of`. [Read the lesson](04-loops.md).
+5. **Functions:** Create reusable code with function declarations and arrow functions. [Read the lesson](05-functions.md).
 6. **Arrays and objects:** Store collections of data and represent real-world entities.
 7. **DOM manipulation:** Select HTML elements and update text, styles, attributes, and classes.
 8. **Events:** Handle clicks, typing, form submissions, and other user interactions.
